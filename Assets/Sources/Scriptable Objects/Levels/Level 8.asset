@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4654bf772c47f45c2ad30e2f5e340c66, type: 3}
+  m_Name: Level 8
+  m_EditorClassIdentifier: 
+  _name:
+    _russian: "\u0420\u0435\u043A\u0430"
+    _english: River
+    _turkish: Nehir
+  _sprite: {fileID: 21300000, guid: e368e0402a09d6049ae561783903de04, type: 3}
+  _difficult: 8
+  _waves: {fileID: 2337597915469288078, guid: 1fa8f19103d04e847acaf49da758e01d, type: 3}
+  _ground: {fileID: 5337124171014025848, guid: bdfe58ffefbb43c44824ba6fd5d98dc0, type: 3}
+  _leaderboardKey: river
+  _maxScore: 207

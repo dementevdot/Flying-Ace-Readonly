@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4654bf772c47f45c2ad30e2f5e340c66, type: 3}
+  m_Name: Level 9
+  m_EditorClassIdentifier: 
+  _name:
+    _russian: "\u041E\u0430\u0437\u0438\u0441"
+    _english: Oasis
+    _turkish: Vaha
+  _sprite: {fileID: 21300000, guid: bdba6a87494252348a0a90d697d1d1f0, type: 3}
+  _difficult: 9
+  _waves: {fileID: 2337597915469288078, guid: 50cfb5e0b0c88db4984ce376c17063d8, type: 3}
+  _ground: {fileID: 5337124171014025848, guid: bd7d5cb78960e0f4cb9e297c615a07d3, type: 3}
+  _leaderboardKey: oasis
+  _maxScore: 218

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4654bf772c47f45c2ad30e2f5e340c66, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  _name:
+    _russian: "\u041A\u0430\u043D\u044C\u043E\u043D"
+    _english: Canyon
+    _turkish: Kanyon
+  _sprite: {fileID: 21300000, guid: 33ed9464736e5a648b9f69863e371349, type: 3}
+  _difficult: 1
+  _waves: {fileID: 2337597915469288078, guid: 1638f6a0c77d9408ca408f9b5fba4c44, type: 3}
+  _ground: {fileID: 5337124171014025848, guid: c1cb1fa7c282e6d42a0b2f7ba2a964fe, type: 3}
+  _leaderboardKey: canyon
+  _maxScore: 100

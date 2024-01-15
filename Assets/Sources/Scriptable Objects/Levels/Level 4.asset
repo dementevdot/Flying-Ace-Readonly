@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4654bf772c47f45c2ad30e2f5e340c66, type: 3}
+  m_Name: Level 4
+  m_EditorClassIdentifier: 
+  _name:
+    _russian: "\u041B\u0435\u0441"
+    _english: Forest
+    _turkish: Orman
+  _sprite: {fileID: 21300000, guid: f094ab578ba50fe40ac0ed46505971dc, type: 3}
+  _difficult: 4
+  _waves: {fileID: 2337597915469288078, guid: 6ff6c98297db4ec41a14fdbdb320aee4, type: 3}
+  _ground: {fileID: 5337124171014025848, guid: 872183388529750468e345587fde712c, type: 3}
+  _leaderboardKey: forest
+  _maxScore: 153
